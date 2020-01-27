@@ -17,12 +17,12 @@ Calcularemos algunos estadísticas sobre la ejecución de los algoritmos para re
 
 ## En proceso:
 
-1. [Ejercicio 1](): Class ocho puzzle.
-2. [Ejercicio 2](): Algoritmos de búsquedas.
-3. [Ejercicio 3](): Heurística.
-4. [Ejercicio 4](): Búsqueda de coste.
-5. [Ejercicio 5](): Algoritmos de búsquedas II.
-6. [Ejercicio 6](): Secuencialidad.
+1. [Ejercicio 1](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer01_class_ocho_puzzle.py): Class ocho puzzle.
+2. [Ejercicio 2](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer02_algoritmos_de_busqueda.py): Algoritmos de búsquedas.
+3. [Ejercicio 3](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer03_heuristica.py): Heurística.
+4. [Ejercicio 4](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer04_busqueda_coste.py): Búsqueda de coste.
+5. [Ejercicio 5](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer05_busquedas.py): Algoritmos de búsquedas II.
+6. [Ejercicio 6](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer06_h3.py): Secuencialidad.
 
 
 By: LtCodes@2020
