@@ -23,7 +23,10 @@ Calcularemos algunos estadísticas sobre la ejecución de los algoritmos para re
 4. [Ejercicio 4](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer04_busqueda_coste.py): Búsqueda de coste.
 5. [Ejercicio 5](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer05_busquedas.py): Algoritmos de búsquedas II.
 6. [Ejercicio 6](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/ejer06_h3.py): Secuencialidad.
-7. [Ejercicio 7](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/chatbot_telegram.py): Chat Bot en Telegram.
+7. [Ejercicio 7](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/lab11_chatbot_telegram.py): Chat Bot en Telegram.
+8. [Ejercicio 8](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/lab07_kivy_basic.py): Kivy - Agentes inteligentes y juegos
+9. [Ejercicio 9](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/lab07_kivy_gridLayout.py): Kivy - Grid Layout.
+10. [Ejercicio 10](https://github.com/ISABELUNA16/lab02_inteligencia_artifical/blob/master/lab07_kivy_touch_tracer.py): Kivy - Touchtracer.
 
 
 
