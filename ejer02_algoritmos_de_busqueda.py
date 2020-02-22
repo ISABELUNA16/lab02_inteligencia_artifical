@@ -9,4 +9,4 @@ from ejer01_class_ocho_puzzle import *
 print(busqueda_en_anchura(Jarras()).solucion())
 print(busqueda_en_profundidad(Jarras()).solucion())
 print(busqueda_en_anchura(Ocho_Puzzle((2, 8, 3, 1, 6, 4, 7, 0, 5))).solucion())
-print(busqueda_en_profundidad(Ocho_Puzzle((2, 8, 3, 1, 6, 4, 7, 0, 5))).solucion())
+#print(busqueda_en_profundidad(Ocho_Puzzle((2, 8, 3, 1, 6, 4, 7, 0, 5))).solucion())

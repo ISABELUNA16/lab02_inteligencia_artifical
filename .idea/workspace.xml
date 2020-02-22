@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="862fbe48-c1f7-4a26-8c19-c69f49c68335" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab07_kivy_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07_kivy_gridLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab07_kivy_touch_tracer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab03_img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer07_puzzlev2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejer08_puzzlev3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle_selenium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatbot_telegram.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11_chatbot_telegram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejer02_algoritmos_de_busqueda.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejer02_algoritmos_de_busqueda.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -53,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aliens">
+  <component name="RunManager" selected="Python.puzzle_selenium">
     <configuration name="aliens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA-Curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chatbot_telegram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejer02_algoritmos_de_busqueda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA-Curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\proyectos\IA-Curso\lab11_chatbot_telegram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejer02_algoritmos_de_busqueda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejer05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejer07_puzzlev2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA-Curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\proyectos\IA-Curso\ejer05_busquedas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejer07_puzzlev2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ejer06_h3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejer08_puzzlev3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA-Curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejer06_h3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejer08_puzzlev3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab07_hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="puzzle_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IA-Curso" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\proyectos\IA-Curso\lab07_kivy_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/puzzle_selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.puzzle_selenium" />
+        <item itemvalue="Python.ejer07_puzzlev2" />
+        <item itemvalue="Python.ejer08_puzzlev3" />
+        <item itemvalue="Python.ejer02_algoritmos_de_busqueda" />
         <item itemvalue="Python.aliens" />
-        <item itemvalue="Python.lab07_hello_world" />
-        <item itemvalue="Python.chatbot_telegram" />
-        <item itemvalue="Python.ejer06_h3" />
-        <item itemvalue="Python.ejer05" />
       </list>
     </recent_temporary>
   </component>
